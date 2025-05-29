@@ -1,2 +1,2 @@
-# ICE-Skatting-Rink-Calculator
-ICE Skatting Rink Calculator
+# Ice-Skatting-Rink-Calculator
+Ice Skatting Rink Calculator
